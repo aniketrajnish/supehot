@@ -16,9 +16,7 @@ public class SuperHot : MonoBehaviour
     void Update()
     {
         float x = Input.GetAxisRaw("Horizontal");
-
         float y = Input.GetAxisRaw("Vertical");
-
 
         float time = (x != 0 || y != 0) ? 1f : 0.02f;
         float lerpTime = (x != 0 || y != 0) ? .5f : .05f;
