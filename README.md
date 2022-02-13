@@ -7,6 +7,4 @@ Recreate Super Hot in 30 lines of code.
 ```
 StartCoroutine(Yeet(time));
 ```
-4. Enjoy
-
 Play the game I made using this script [here](https://makra.itch.io/faster-than-light)!<br><br>
